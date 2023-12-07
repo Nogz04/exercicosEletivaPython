@@ -1,0 +1,14 @@
+Aqui estará as informações sobre o programa:
+
+PROGRAMA DE NOTICIA (PYTHON ELETIVA 2023 TURNO NOITE)
+
+LINK DE EXECUÇÃO DO PROGRAMA NO REPLIT: https://replit.com/@MatheusNoguei18/NOTICIA-ELETIVA-PY#main.py
+***ATENÇÃO: Comentei algumas linhas do programa para deixar bem explicado, tem que tomar cuidado para verificar se o arquivo .csv está na linha 1 selecionado com o mouse,
+pois se não ele da um bug e não executa o programa, dai é só dar um "backspace" para voltar para a linha 1 e executar o programa normalmente.
+
+
+
+NOME: MATHEUS NOGUEIRA ALBUQUERQUE
+
+Abraço Sor! Valeu.
+
